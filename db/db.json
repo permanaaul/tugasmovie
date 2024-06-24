@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": "1718958572172",
+      "email": "abc@gmail.com",
+      "username": "abc",
+      "password": "abc123",
+      "role": "USER"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Eternal Journey",
+      "image": "/images/eternal-journey.jpg",
+      "description": "A thrilling adventure through time.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "9:00 - 11:00",
+        "12:00 - 14:00",
+        "15:00 - 17:00",
+        "18:00 - 20:00"
+      ],
+      "release_date": "2023-03-01",
+      "genre": "Adventure",
+      "total_seat": 60,
+      "seat_available": 12,
+      "price": 35000
+    },
+    {
+      "id": 2,
+      "title": "Mystic Realms",
+      "image": "/images/mystic-realms.jpg",
+      "description": "An epic fantasy in a magical world.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "10:00 - 12:00",
+        "13:00 - 15:00",
+        "16:00 - 18:00",
+        "19:00 - 21:00"
+      ],
+      "release_date": "2023-04-01",
+      "genre": "Fantasy",
+      "total_seat": 60,
+      "seat_available": 28,
+      "price": 35000
+    },
+    {
+      "id": 3,
+      "title": "Galactic Enigma",
+      "image": "/images/galactic-enigma.jpg",
+      "description": "A mysterious journey through the galaxy.",
+      "status": "UPCOMING",
+      "release_date": "2023-05-01",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 4,
+      "title": "Lost Treasures",
+      "image": "/images/lost-treasures.jpg",
+      "description": "An action-packed hunt for ancient treasures.",
+      "status": "UPCOMING",
+      "release_date": "2023-06-01",
+      "genre": "Action"
+    },
+    {
+      "id": 5,
+      "title": "Infinite Loop",
+      "image": "/images/infinite-loop.jpg",
+      "description": "A sci-fi thriller about time loops.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "11:00 - 13:00",
+        "14:00 - 16:00",
+        "17:00 - 19:00",
+        "20:00 - 22:00"
+      ],
+      "release_date": "2023-07-01",
+      "genre": "Sci-Fi",
+      "total_seat": 60,
+      "seat_available": 39,
+      "price": 35000
+    },
+    {
+      "id": 6,
+      "title": "Hidden Secrets",
+      "image": "/images/hidden-secrets.jpg",
+      "description": "An intriguing mystery unraveling hidden secrets.",
+      "status": "UPCOMING",
+      "release_date": "2023-08-01",
+      "genre": "Mystery"
+    },
+    {
+      "id": 7,
+      "title": "The Enchanted Forest",
+      "image": "/images/the-enchanted-forest.jpg",
+      "description": "A fantasy adventure in a magical forest.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "9:00 - 11:00",
+        "12:00 - 14:00",
+        "15:00 - 17:00",
+        "18:00 - 20:00"
+      ],
+      "release_date": "2023-09-01",
+      "genre": "Fantasy",
+      "total_seat": 60,
+      "seat_available": 50,
+      "price": 35000
+    },
+    {
+      "id": 8,
+      "title": "The Lost Expedition",
+      "image": "/images/the-lost-expedition.jpg",
+      "description": "An action-adventure film about a lost expedition.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "10:00 - 12:00",
+        "13:00 - 15:00",
+        "16:00 - 18:00",
+        "19:00 - 21:00"
+      ],
+      "release_date": "2023-10-01",
+      "genre": "Adventure",
+      "total_seat": 60,
+      "seat_available": 37,
+      "price": 35000
+    },
+    {
+      "id": 9,
+      "title": "Space Odyssey",
+      "image": "/images/space-odyssey.jpg",
+      "description": "A science fiction adventure in space.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "11:00 - 13:00",
+        "14:00 - 16:00",
+        "17:00 - 19:00",
+        "20:00 - 22:00"
+      ],
+      "release_date": "2023-11-01",
+      "genre": "Sci-Fi",
+      "total_seat": 60,
+      "seat_available": 35,
+      "price": 35000
+    },
+    {
+      "id": 10,
+      "title": "The Final Frontier",
+      "image": "/images/the-final-frontier.jpg",
+      "description": "A science fiction film about exploring the final frontier.",
+      "status": "ON SHOW",
+      "showtimes": [
+        "12:00 - 14:00",
+        "15:00 - 17:00",
+        "18:00 - 20:00",
+        "21:00 - 23:00"
+      ],
+      "release_date": "2023-12-01",
+      "genre": "Sci-Fi",
+      "total_seat": 60,
+      "seat_available": 21,
+      "price": 35000
+    },
+    {
+      "id": 11,
+      "title": "Ancient Mysteries",
+      "image": "/images/ancient-mysteries.jpg",
+      "description": "An adventure film exploring ancient ruins.",
+      "status": "UPCOMING",
+      "release_date": "2024-01-01",
+      "genre": "Adventure"
+    },
+    {
+      "id": 12,
+      "title": "Quantum Realm",
+      "image": "/images/quantum-realm.jpg",
+      "description": "A science fiction adventure in a futuristic city.",
+      "status": "UPCOMING",
+      "release_date": "2024-02-01",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 13,
+      "title": "The Dark Horizon",
+      "image": "/images/the-dark-horizon.jpg",
+      "description": "A thriller film set on a mysterious ship.",
+      "status": "UPCOMING",
+      "release_date": "2024-03-01",
+      "genre": "Thriller"
+    },
+    {
+      "id": 14,
+      "title": "Mystery Island",
+      "image": "/images/mystery-island.jpg",
+      "description": "An adventure thriller exploring a remote island.",
+      "status": "UPCOMING",
+      "release_date": "2024-04-01",
+      "genre": "Adventure"
+    }
+  ],
+  "transactions": [
+    {
+      "uid": "1718962225064",
+      "movie_id": 1,
+      "time": "9:00 - 11:00",
+      "total_seat": "2",
+      "date": "2024-06-21",
+      "total_price": 70000
+    },
+    {
+      "uid": "1719023066970",
+      "movie_id": 1,
+      "time": "9:00 - 11:00",
+      "total_seat": "3",
+      "date": "2024-06-22",
+      "total_price": 105000
+    },
+    {
+      "uid": "1719023259304",
+      "movie_id": 2,
+      "time": "16:00 - 18:00",
+      "total_seat": "2",
+      "date": "2024-06-22",
+      "total_price": 70000
+    },
+    {
+      "uid": "1719023663623",
+      "movie_id": 1,
+      "time": "12:00 - 14:00",
+      "total_seat": "3",
+      "date": "2024-06-22",
+      "total_price": 105000
+    },
+    {
+      "uid": "1719023679125",
+      "movie_id": 5,
+      "time": "17:00 - 19:00",
+      "total_seat": 1,
+      "date": "2024-06-22",
+      "total_price": 35000
+    },
+    {
+      "uid": "1719024624287",
+      "movie_id": 10,
+      "time": "12:00 - 14:00",
+      "total_seat": "2",
+      "date": "2024-06-22",
+      "total_price": 70000
+    },
+    {
+      "uid": "1719187589792",
+      "movie_id": 10,
+      "time": "18:00 - 20:00",
+      "total_seat": "2",
+      "date": "2024-06-24",
+      "total_price": 70000
+    },
+    {
+      "uid": "1719195251629",
+      "movie_id": 8,
+      "time": "13:00 - 15:00",
+      "total_seat": "3",
+      "date": "2024-06-24",
+      "total_price": 105000
+    }
+  ]
+}
